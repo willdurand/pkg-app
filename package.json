@@ -1,0 +1,11 @@
+{
+  "name": "pkg-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "William Durand",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "pkg-002": "^1.0.0"
+  }
+}
