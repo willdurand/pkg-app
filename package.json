@@ -6,6 +6,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "pkg-002": "^1.0.0"
+    "pkg-002": "^1.1.0"
   }
 }

@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-pkg-001@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/pkg-001/-/pkg-001-1.0.0.tgz#ffbba979c603b49a8d80c00af47098fe96940cb0"
+pkg-001@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/pkg-001/-/pkg-001-1.1.0.tgz#5c7f4e69e10d20f9b2416d89c7d4f91bbe5130a6"
 
-pkg-002@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/pkg-002/-/pkg-002-1.0.0.tgz#329c8070b2dad81005e2b9c359db0116adde9b04"
+pkg-002@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/pkg-002/-/pkg-002-1.1.0.tgz#bbb33612c3894905404e48c0cd5f41e64fb594ad"
   dependencies:
-    pkg-001 "^1.0.0"
+    pkg-001 "^1.1.0"
